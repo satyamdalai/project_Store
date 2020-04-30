@@ -9,8 +9,12 @@ Hope You Like it!
 
 ******************************************************************************************************************************
 LICENSE AND COPYRIGHT: All the images used for this project are representational images.
+
 I, Satyam Dalai holds no copyright over these images.
+
 TRADEMARKS:
+
 1.)The trademarks of the brands belong to the respective brands and I do not trademark violations.
+
 2.)"Ecommobile" and "project_Store" are not registered trademarks by me nor I hold any copyright over the use of these words.
 ******************************************************************************************************************************
