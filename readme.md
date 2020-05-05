@@ -7,6 +7,8 @@ I built this website as the final project during the online Web Development trai
 
 Hope You Like it!
 
+Please refer to setup.txt for setup instructions
+
 ******************************************************************************************************************************
 LICENSE AND COPYRIGHT: All the images used for this project are representational images.
 
