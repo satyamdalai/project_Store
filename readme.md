@@ -1,7 +1,7 @@
 # project_Store
 Hey There!
 
-My name is Satyam Dalai and I am currently a student pursuing B.Tech at Siksha 'O' Anusandhan University and have interest in programming, web development and data analytics. My preferred languages are Java and Python.
+My name is Satyam Dalai and I am currently a student pursuing B.Tech at Siksha 'O' Anusandhan University and have interest in programming, web development and data science. My preferred languages are Java and Python.
 
 I built this website as the final project during the online Web Development training at Internshala Trainings.
 
